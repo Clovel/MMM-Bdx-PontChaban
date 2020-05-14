@@ -1,7 +1,5 @@
 # MagicMirror module - Pont Chaban-Delmas @ Bordeaux, France
 
-
-
 ## Installation
 1. Navigate to your MagicMirror's modules folder, and run the following command: `git clone https://github.com/Clovel/MMM-Bdx-PontChaban.git`
 2. Add the module and a valid configuration to your `config/config.js` file
